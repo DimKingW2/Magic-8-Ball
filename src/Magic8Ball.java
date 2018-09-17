@@ -4,7 +4,7 @@ public class Magic8Ball {
     public static void main(String[] args){
         //Defining variables
         Scanner keyboard;
-        String  question;
+        String question;
         int inputNumber;
 
         //gathering information
